@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="">
-    <img src="/src/assets/dog-facts.svg" alt="Boiler Plate">
+    <img src="/src/assets/state-management.svg" alt="Boiler Plate">
   </a>
 </h1>
 
