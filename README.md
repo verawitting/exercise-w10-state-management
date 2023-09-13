@@ -26,7 +26,7 @@ npm i && code . && npm run dev
 
 1.  Zustand Installation:
 
-    - Zustand isn't included in the default React setup. You'll need to install it using `npm install zustand`.
+    - Zustand isn't included in the boiler plate. You'll need to install it using `npm install zustand`.
 
 2.  State Management with Zustand:
 
