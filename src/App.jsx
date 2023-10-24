@@ -1,3 +1,12 @@
+import { HandleTask } from "./components/HandleTask";
+import { ToggleTheme } from "./components/ToggleTheme";
+import { ThemeDataProvider } from "./themes/LightOrDarkModeTheme";
+
 export const App = () => {
-  return <div className="App">Hello Coders!</div>;
+    return (
+        <ThemeDataProvider>
+            <HandleTask />
+            <ToggleTheme />
+        </ThemeDataProvider>
+    );
 };
